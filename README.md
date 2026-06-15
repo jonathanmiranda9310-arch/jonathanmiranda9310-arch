@@ -21,7 +21,6 @@ Atualmente desenvolvo projetos como o **Examine AI**, uma plataforma de estudos 
 ### Back-end
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
@@ -77,14 +76,6 @@ Plataforma de estudos para estudantes da área da saúde, com foco em aprendizad
 * Português: nativo
 * Inglês: intermediário
 * Espanhol: intermediário
-
----
-
-## 📊 GitHub Status
-
-![Jonathan GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanmiranda9310\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmiranda9310\&layout=compact\&theme=tokyonight)
 
 ---
 
